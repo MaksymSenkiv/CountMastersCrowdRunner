@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23df434c8dc541b5aadbca6d3f3f1527, type: 3}
+  m_Name: CameraFollowerConfig
+  m_EditorClassIdentifier: 
+  FollowSettings: {fileID: 11400000, guid: fa38a8d919d97104b86a37a5c0a88f39, type: 2}
+  Shake: {fileID: 11400000, guid: f57f0edf99b7319479585099ec691a32, type: 2}
